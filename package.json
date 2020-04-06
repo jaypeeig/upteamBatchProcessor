@@ -1,5 +1,5 @@
 {
-  "name": "batchCurl",
+  "name": "batchRequest",
   "version": "1.0.0",
   "main": "app.js",
   "license": "MIT",
